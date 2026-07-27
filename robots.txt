@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://Benyamin752.github.io/sitemap.xml
+Sitemap: https://Benyamin752.github.io/benyamindev/sitemap.xml
